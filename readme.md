@@ -8,9 +8,9 @@ The application retrieves data from the DummyJSON API and shows it on a web page
 # Technologies Used
 
 - HTML
-- Tailwind CSS
+- CSS (Tailwind)
 - JavaScript
-- Fetch API
+- Fetch API (Used dummyJSON)
 
 # API Used
 
